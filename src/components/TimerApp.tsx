@@ -34,7 +34,7 @@ const TimerApp: React.FC<Props> = ({ initialCount }) => {
 
   return (
     <div className="flex flex-col p-4 gap-8 bg-slate-800  w-fit rounded-lg m-8">
-      <h2>全裸中年男性</h2>
+      <h2>samples</h2>
       <span className="text-6xl">{count}</span>
       <div className="flex gap-2">
         <button
